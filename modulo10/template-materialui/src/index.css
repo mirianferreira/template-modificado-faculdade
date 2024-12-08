@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 
+    'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #f8f9fa; /* Fundo leve */
+  color: #343a40; /* Texto escuro */
+  line-height: 1.6; /* Melhor espaçamento */
+  padding: 1rem; /* Espaçamento interno */
+}
+
+code {
+  font-family: 'Fira Code', source-code-pro, Menlo, Monaco, Consolas, 
+    'Courier New', monospace;
+  background-color: #e9ecef; /* Fundo cinza claro */
+  padding: 0.2em 0.4em; /* Espaçamento interno */
+  border-radius: 4px; /* Borda arredondada */
+  color: #d63384; /* Destaque */
+}
